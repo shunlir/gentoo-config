@@ -1,0 +1,6 @@
+# created by eselect-repo
+
+[shunlir]
+location = /var/db/repos/shunlir
+sync-type = git
+sync-uri = git://github.com/shunlir/shunlir-gentoo-overlay.git

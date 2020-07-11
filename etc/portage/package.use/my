@@ -1,0 +1,18 @@
+# my settings
+
+app-editors/vim python
+app-editors/emacs xft
+x11-terms/rxvt-unicode 256-color gdk-pixbuf xft unicode3
+app-emulation/qemu usbredir spice virgl
+# NAT support
+app-emulation/libvirt virt-network
+
+app-office/gnucash quotes
+app-portage/layman sync-plugin-portage git
+x11-misc/barrier qt5
+media-video/mpv vaapi
+net-misc/remmina rdp
+
+media-sound/pulseaudio native-headset
+
+x11-misc/rofi windowmode

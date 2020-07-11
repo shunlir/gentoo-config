@@ -1,0 +1,59 @@
+#
+=net-wireless/blueman-2.1.2 ~amd64
+#
+=dev-python/pynvim-0.4.0 ~amd64
+#
+# move net-im/slack-bin net-im/slack
+net-im/slack ~amd64
+#
+x11-misc/barrier ~amd64
+#
+=dev-util/perf-5.4.20 ~amd64
+#
+app-portage/metagen ~amd64
+#
+app-editors/vscode-bin ~amd64
+app-editors/vscodium-bin ~amd64
+#
+#=sys-kernel/gentoo-sources-5.4* ~amd64
+# spice
+=app-emulation/spice-0.14* ~amd64
+=app-emulation/spice-protocol-0.14* ~amd64
+=net-misc/spice-gtk-0.37* ~amd64
+
+=x11-apps/igt-gpu-tools-1.24 ~amd64
+=games-fps/xonotic-0.8.2 ~amd64
+=dev-libs/d0_blind_id-1.0 ~amd64
+# screenshot
+media-gfx/maim ~amd64
+x11-misc/slop ~amd64
+# screenshot
+media-gfx/flameshot ~amd64
+
+#
+=net-misc/remmina-1.4* ~amd64
+=net-misc/freerdp-2.0.0_rc4_p1129 ~amd64
+
+#
+media-gfx/blender ~amd64
+media-video/simplescreenrecorder ~amd64
+
+net-im/zoom-bin ~amd64
+
+media-video/obs-studio ~amd64
+
+app-editors/vim ~amd64
+app-editors/vim-core ~amd64
+
+dev-util/sysdig ~amd64
+dev-util/sysdig-kmod ~amd64
+dev-libs/libb64 ~amd64
+net-libs/grpc ~amd64
+
+net-im/teams ~amd64
+
+app-misc/nnn ~amd64
+
+net-wireless/rtl8192eu ~amd64
+
+net-im/zoom ~amd64
